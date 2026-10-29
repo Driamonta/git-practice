@@ -4,3 +4,4 @@
 - Temperature stable at 85C
 - Sample sent to QC
 - Batch 102 completed
+- Batch 103 strated
